@@ -30,4 +30,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijontalukder&" alt="bijontalukder" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BijonTalukder&langs_count=8" alt="bijontalukder" /></p>
+![](https://raw.githubusercontent.com/BijonTalukder/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/BijonTalukder/cf-stats/main/output/rating.svg)
 
