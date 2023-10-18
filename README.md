@@ -11,8 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bijontalukder&label=Profile%20views&color=0e75b6&style=flat" alt="bijontalukder" /> </p>
-![](https://raw.githubusercontent.com/BijonTalukder/cf-stats/main/output/rating.svg)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bijontalukder" alt="bijontalukder" /></a> </p>
 
 
@@ -37,6 +36,6 @@
 
 ![](https://raw.githubusercontent.com/BijonTalukder/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/BijonTalukder/cf-stats/main/output/light_card.svg)
-
+![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
 
 
