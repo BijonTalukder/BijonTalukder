@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Bijon Talukder</h1>
 <h3 align="center">A passionate MERN Stack developer & Mobile Application(java) developer</h3>
-
+<a href="https://dev.to/bijontalukder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bijontalukder" height="30" width="40" /></a>
 - 🔭 I’m currently working Smart FrameWork
 <!-- - 🌱 my goal ...
 - 👯 I’m looking to collaborate on ...
