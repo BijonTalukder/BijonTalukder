@@ -30,10 +30,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bijontalukder&" alt="bijontalukder" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BijonTalukder&langs_count=8" alt="bijontalukder" /></p>
-CF_HANDLE=BijonTalukder
 
-ACRONYM_IGNORE='["of", "and", "in"]'
 
-# Max length of a users full name, change if you want to override
-MAX_NAME_LEN=13
 
