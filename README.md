@@ -32,7 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BijonTalukder&langs_count=8" alt="bijontalukder" /></p>
 
 ![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg
+![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
 
 
 
