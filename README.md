@@ -14,7 +14,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bijontalukder" alt="bijontalukder" /></a> </p>
 
-
+<div>
+<img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
+</div>
 
 
 <h3 align="left">Connect with me:</h3>
@@ -34,8 +36,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BijonTalukder&langs_count=8" alt="bijontalukder" /></p>
 
 
+<div align="center">
 ![](https://raw.githubusercontent.com/BijonTalukder/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/BijonTalukder/cf-stats/main/output/light_card.svg)
 ![](https://raw.githubusercontent.com/BijonTalukder/cf-stats/main/output/rating.svg)
+</div>
+
 
 
