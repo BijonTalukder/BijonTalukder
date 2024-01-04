@@ -53,6 +53,6 @@
 
 
 
-<img src="https://raw.githubusercontent.com/BijonTalukder/BijonTalukder/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/BijonTalukder/BijonTalukder/1b9bb92375b92734e1e5511ea91de80e8d4d1b03/github-user-contribution%20(1).svg" alt="Snake animation" />
 
 ###
