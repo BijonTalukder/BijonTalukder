@@ -1,9 +1,11 @@
-
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
 <h1 align="center">Hi 👋, I'm Bijon Talukder</h1>
 <h3 align="center">A passionate MERN Stack developer & Mobile Application(java) developer</h3>
 <a href="https://raw.githubusercontent.com/BijonTalukder/cf-stats/main/output/rating.svg"></a>
-- 🔭 I’m currently working Smart FrameWork
-- 🥅 2024 Goals: Learn SQL and solve 1000 problem
+ 🔭 I’m currently working Smart FrameWork
+🥅 2024 Goals: Learn SQL and solve 1000 problem
 
 
 
@@ -50,3 +52,14 @@
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/BijonTalukder/count.svg?"  />
+</div>
+
+
+
+<img src="https://raw.githubusercontent.com/BijonTalukder/BijonTalukder/output/snake.svg" alt="Snake animation" />
+
+###
