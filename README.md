@@ -7,8 +7,8 @@
 
 
 ###
-  🔭 I’m currently working Smart FrameWork
-  🥅 2024 Goals: Learn SQL and solve 1000 problem
+ * 🔭 I’m currently working Smart FrameWork
+ * 🥅 2024 Goals: Learn SQL and solve 1000 problem
 ###
 
 
@@ -35,7 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bijontalukder&show_icons=true&locale=en" alt="bijontalukder" /></p> -->
 
 ###
-<div align="center">
+<div align="center" style="margin:13px">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=bijontalukder&show_icons=true&locale=en" alt="bijontalukder"  height="150"/>
 </div>
 
@@ -50,9 +50,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/BijonTalukder/count.svg?"  />
-</div>
 
 
 
