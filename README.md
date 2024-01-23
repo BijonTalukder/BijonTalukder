@@ -7,7 +7,7 @@
 
 
 ###
- * 🔭 I’m currently working Smart FrameWork
+ * 🔭 I’m currently working at Smart FrameWork
  * 🥅 2024 Goals: Learn SQL and solve 1000 problem
 ###
 
