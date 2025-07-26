@@ -63,41 +63,61 @@
 
 ## 🚀 Featured Projects
 
-- 🛒 **[Smart Food Delivery System](https://github.com/BijonTalukder/smart-food-app)** — A real-time food ordering platform built with MERN stack.
-- 💼 **[ERP Management System](https://github.com/BijonTalukder/erp-system)** — Business-focused backend with user roles, reports, and advanced filtering.
-- 📱 **[Android News App (Java)](https://github.com/BijonTalukder/news-app-java)** — News app with REST API integration and modern UI.
+- 🧾 **Client Backend Development Project** — Backend built using **Prisma** & **MongoDB**, following **SOLID principles** for clean, performant microservices.  
+  🔗 [LinkedIn Post](https://www.linkedin.com/posts/bijon-talukder-934879210_backenddevelopment-prisma-mongodb-activity-7305160683959001092-sMeZ?utm_source=chatgpt.com)
+
+- 🚀 **NASA Space Apps Challenge 2024 – Hexplorers** — Participated in NASA's global hackathon to build impactful space science solutions.  
+  🌐 [Project Page](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/hexplorers/?tab=project)
+
+- 🛒 **Smart Food Delivery System** — Real-time MERN stack food ordering app with tracking and admin dashboard.  
+  🔗 [GitHub Repo](https://github.com/BijonTalukder/smart-food-app)
+
+- 💼 **ERP Management System** — Admin dashboard with role-based access, reports, and filterable views.  
+  🔗 [GitHub Repo](https://github.com/BijonTalukder/erp-system)
+
+- 📱 **Android News App (Java)** — Native Android news reader app with REST API and clean design.  
+  🔗 [GitHub Repo](https://github.com/BijonTalukder/news-app-java)
 
 ---
 
 ## 📘 Currently Learning
 
-- 💾 SQL and PostgreSQL for relational DB
-- 🌐 Golang for backend microservices
-- 🔍 Test-driven development (Jest, Mocha)
-- 🎯 System design and software architecture patterns
+- 💾 SQL & PostgreSQL
+- 🌐 Golang for microservices
+- ✅ Unit Testing (Jest, Mocha)
+- 📐 Clean Architecture & Design Patterns
 
 ---
 
 ## 🏅 Achievements
 
 - 🥇 Top 10% in **Codeforces Regional Contest**
-- 📜 Certified: **MongoDB for Developers** – MongoDB University
+- 🏆 **ICPC Asia Dhaka Regional Contest 2021** — Participated in one of the most prestigious collegiate programming competitions.  
+  🎓 [Certificate Link](https://drive.google.com/file/d/1kS1NGKUalP_-mNCT3t5OJdYnXAfUp6J_/view)
+
+- 🚀 **NASA Space Apps Challenge 2024 – Hexplorers** — Collaborated in solving space-related challenges in the world’s largest hackathon.  
+  🌐 [Team Page](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/hexplorers/?tab=project)
+
+- 📜 Certified: **MongoDB for Developers** – MongoDB University  
 - 🧾 Completed: **Backend Engineering Bootcamp** – Udemy
 
 ---
 
-## ✍️ Blog Posts
+## ✍️ Blog Posts & Articles
 
-- 📌 [How to Scale MERN Apps](https://dev.to/bijontalukder/how-to-scale-mern-apps)
-- 🔍 [Firebase vs MongoDB – Which to Choose?](https://dev.to/bijontalukder/firebase-vs-mongodb)
+- 📝 **Single Thread vs Multi Thread – আসলে ব্যাপারটা কী?** — Java বা Node.js প্রসেসিংয়ে Single-threaded ও Multi-threaded execution এর তুলনা।  
+  🔗 [Read on LinkedIn](https://zw.linkedin.com/posts/bijon-talukder-934879210_everybody-should-learn-to-program-a-computer-activity-7049446717385035776-hi6S?utm_source=chatgpt.com)
+
+- 📌 **Backend Development Post (Prisma + MongoDB)** — SOLID principles & clean RESTful API architecture.  
+  🔗 [Read on LinkedIn](https://www.linkedin.com/posts/bijon-talukder-934879210_backenddevelopment-prisma-mongodb-activity-7305160683959001092-sMeZ?utm_source=chatgpt.com)
 
 ---
 
 ## 🎯 Fun Facts About Me
 
-- 🧩 Love solving logic puzzles & competitive programming
-- 🎬 Fan of sci-fi tech movies
-- 🍳 Cooking is my creative stress-buster!
+- 🧩 Love solving logic puzzles & coding challenges  
+- 🎬 Big fan of sci-fi & tech documentaries  
+- 🍳 Cooking is my creative outlet outside of tech
 
 ---
 
