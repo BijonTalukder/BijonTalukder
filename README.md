@@ -11,20 +11,20 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🔭 Currently working at **Smart FrameWork**
 - 💻 3+ years of experience as a **Full Stack Developer**
-- 🚀 Experienced in building web and mobile applications using **MERN Stack** & **Java (Android)**
+- 🧠 Skilled in **React, Node.js, MongoDB, Express, Android (Java)**
 - ⚙️ Familiar with **Golang**, **.NET**, and **MySQL**
-- 🎯 2024 Goals:
-  - Learn and master SQL
+- 🎯 **2024 Goals**:
+  - Master SQL
   - Solve 1000+ programming problems
-- 💬 Ask me about **React, Node.js, MongoDB, Express, REST API, Android Java**
+- 🤝 I love building scalable systems & learning new technologies
 
 ---
 
-### 📫 Connect with Me
+## 📫 Connect with Me
 
 | Platform     | Profile Link |
 |--------------|--------------|
@@ -35,7 +35,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
@@ -61,7 +61,47 @@
 
 ---
 
-### 🏆 GitHub Trophies
+## 🚀 Featured Projects
+
+- 🛒 **[Smart Food Delivery System](https://github.com/BijonTalukder/smart-food-app)** — A real-time food ordering platform built with MERN stack.
+- 💼 **[ERP Management System](https://github.com/BijonTalukder/erp-system)** — Business-focused backend with user roles, reports, and advanced filtering.
+- 📱 **[Android News App (Java)](https://github.com/BijonTalukder/news-app-java)** — News app with REST API integration and modern UI.
+
+---
+
+## 📘 Currently Learning
+
+- 💾 SQL and PostgreSQL for relational DB
+- 🌐 Golang for backend microservices
+- 🔍 Test-driven development (Jest, Mocha)
+- 🎯 System design and software architecture patterns
+
+---
+
+## 🏅 Achievements
+
+- 🥇 Top 10% in **Codeforces Regional Contest**
+- 📜 Certified: **MongoDB for Developers** – MongoDB University
+- 🧾 Completed: **Backend Engineering Bootcamp** – Udemy
+
+---
+
+## ✍️ Blog Posts
+
+- 📌 [How to Scale MERN Apps](https://dev.to/bijontalukder/how-to-scale-mern-apps)
+- 🔍 [Firebase vs MongoDB – Which to Choose?](https://dev.to/bijontalukder/firebase-vs-mongodb)
+
+---
+
+## 🎯 Fun Facts About Me
+
+- 🧩 Love solving logic puzzles & competitive programming
+- 🎬 Fan of sci-fi tech movies
+- 🍳 Cooking is my creative stress-buster!
+
+---
+
+## 🏆 GitHub Trophies
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=bijontalukder&theme=algolia&margin-w=10" />
@@ -69,7 +109,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BijonTalukder&show_icons=true&theme=dracula" height="150"/>
@@ -78,7 +118,7 @@
 
 ---
 
-### 🐍 GitHub Contributions
+## 🐍 GitHub Contributions
 
 <img src="https://raw.githubusercontent.com/BijonTalukder/BijonTalukder/1b9bb92375b92734e1e5511ea91de80e8d4d1b03/github-user-contribution%20(1).svg" alt="Snake animation" />
 
