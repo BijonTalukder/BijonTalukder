@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # Bijon Talukder
 
 ### Backend Engineer \| System Design Enthusiast \| Scalable Systems Builder
