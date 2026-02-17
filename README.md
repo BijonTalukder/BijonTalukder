@@ -1,85 +1,68 @@
-
 # Bijon Talukder
 
 ### Backend Engineer \| System Design Enthusiast \| Scalable Systems Builder
-:::
 
 ------------------------------------------------------------------------
 
-## About Me
+## Professional Summary
 
-Backend-focused Full Stack Developer with 3+ years of experience
-designing and building scalable, production-grade systems.
+Backend Engineer with 3+ years of experience building scalable,
+production-grade backend systems. Specialized in backend architecture,
+database design, and performance optimization.
 
-Currently working as a Backend Engineer, specializing in backend
-architecture, system scalability, and performance optimization.
-
-Experienced in designing REST APIs, database systems, authentication
-systems, and scalable backend infrastructure.
+Currently working at RootDevs, focusing on scalable APIs, system
+reliability, and backend performance.
 
 ------------------------------------------------------------------------
 
 ## Experience
 
-**Backend Engineer** --- RootDevs\
-Designing and maintaining scalable backend systems, REST APIs, and
-database architecture.
+Backend Engineer --- RootDevs (Current) - Design scalable backend
+systems and REST APIs - Optimize database performance and architecture -
+Maintain production reliability
 
-**Full Stack Developer** --- Smart Framework *(Former)*\
-Worked on full stack applications using MERN stack and production
-deployments.
+Full Stack Developer --- Smart Framework (Former) - Built production
+MERN stack applications - Designed authentication and backend systems
 
-**Software Developer** --- OneWorldGSM *(Former)*\
-Worked on backend systems, APIs, and application logic.
+Software Developer --- OneWorldGSM (Former) - Developed backend APIs and
+application logic
+
+------------------------------------------------------------------------
+
+## Career Progression
+
+2023 --- Career Foundation (Completed) - Entered professional production
+development
+
+2024 --- Technical Deepening (Completed) - Learned .NET - Mastered MySQL
+and SQL - Focused on problem solving
+
+2025 --- Backend Specialization (Completed) - Became Backend Engineer -
+Built scalable production backend systems
+
+2026 --- Current Focus - System Design - Distributed Systems -
+Microservices Architecture - High Scalability Systems
 
 ------------------------------------------------------------------------
 
 ## Core Expertise
 
-Backend Engineering: - Node.js - Express.js - REST API Architecture -
-Authentication & Authorization - Scalable System Design
+Backend Engineering - Node.js - Express.js - REST API Design -
+Authentication & Authorization - Scalable Architecture
 
-Database Engineering: - MongoDB - MySQL - Query Optimization - Schema
+Database Engineering - MongoDB - MySQL - Query Optimization - Schema
 Design - Performance Optimization
 
-Additional: - Golang (Microservices learning) - .NET - Linux - Docker
+Additional - Golang - .NET - Linux - Docker
 
-Frontend: - React.js - Next.js
-
-------------------------------------------------------------------------
-
-## Current Focus
-
--   System Design
--   Distributed Systems
--   Microservices Architecture
--   Backend Scalability
--   Performance Optimization
-
-------------------------------------------------------------------------
-
-## Technical Skills
-
-Languages: JavaScript, TypeScript, Go, Java, C, C++
-
-Backend: Node.js, Express.js, REST APIs, .NET
-
-Database: MongoDB, MySQL
-
-Tools: Git, Docker, Linux, Postman
-
-------------------------------------------------------------------------
-
-## GitHub Stats
-
-https://github-readme-stats.vercel.app/api?username=BijonTalukder
+Frontend - React.js - Next.js
 
 ------------------------------------------------------------------------
 
 ## Career Vision
 
-My goal is to become a System Architect capable of designing large-scale
-distributed systems and high-performance backend infrastructure.
+To become a System Architect specializing in distributed systems and
+large-scale backend infrastructure.
 
 ------------------------------------------------------------------------
 
