@@ -13,23 +13,84 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently working at **Smart FrameWork**
-- 💻 3+ years of experience as a **Full Stack Developer**
-- 🧠 Skilled in **React, Node.js, MongoDB, Express, Android (Java)**
-- ⚙️ Familiar with **Golang**, **.NET**, and **MySQL**
-- 🎯 **2024 Goals**:
-  - Master SQL
-  - Solve 1000+ programming problems
-- 🤝 I love building scalable systems & learning new technologies
+Hi, I'm a passionate Backend-focused Full Stack Developer with 3+ years of experience designing scalable systems and production-level applications.
+
+- 🏢 Currently working at **RootDevs**
+- 💼 Previously worked at:
+  - Smart Framework (Ex)
+  - OneWorldGSM (Ex)
+
+- 💻 Backend-focused Full Stack Developer with strong experience in:
+  - Node.js, Express.js
+  - React.js, Next.js
+  - MongoDB, MySQL
+  - REST APIs, Authentication, File Systems
+  - Scalable Backend Architecture
+
+- 🧠 Additional experience with:
+  - .NET
+  - Golang
+  - Android (Java)
+  - Linux Server Management
+  - Docker (basic)
+
+- 🎯 Current Focus:
+  - System Design
+  - Scalable Architecture
+  - High-performance Backend Systems
+  - Distributed Systems
+
+- 🤝 Passionate about building scalable, reliable, and clean architecture systems.
+
 
 ---
+
+## 🏢 Experience Timeline
+
+- 🟢 **RootDevs** — Backend Engineer *(Current)*
+- 🔵 **Smart Framework** — Full Stack Developer *(Former)*
+- 🟣 **OneWorldGSM** — Software Developer *(Former)*
+
+
+---
+
+## 🚀 Career Goals Timeline
+
+### ✅ 2023 — Achieved
+- 🎯 Successfully switched to a better developer job
+- 💼 Entered professional production-level development
+
+### ✅ 2024 — Achieved
+- 📚 Learned .NET and MySQL deeply
+- 🧩 Focused on problem solving and algorithms
+
+### ✅ 2025 — Achieved
+- 🧠 Became a Backend Engineer
+- 🏗️ Built scalable production backend systems
+
+### 🎯 2026 — Current Goal
+- 🏛️ Become a System Architect
+- 📐 Master System Design
+- ⚡ Learn Distributed Systems, Microservices, Redis, Queues
+
+
+---
+
+## ⚡ Current Skill Focus
+
+```text
+Backend Engineering     ████████████████ 95%
+System Design           ███████████░░░░ 70%
+Database Design         █████████████░░ 85%
+Problem Solving         ████████████░░░ 80%
+Architecture Skills     ██████████░░░░░ 75%
+```
 
 ## 📫 Connect with Me
 
 | Platform     | Profile Link |
 |--------------|--------------|
 | 🔗 **LinkedIn**   | [linkedin.com/in/bijon-talukder-934879210](https://www.linkedin.com/in/bijon-talukder-934879210) |
-| 📝 **Dev.to**     | [dev.to/bijontalukder](https://dev.to/bijontalukder) |
 | 📘 **Facebook**   | [facebook.com/bijontalukder.bijon](https://www.facebook.com/bijontalukder.bijon) |
 | 💻 **Codeforces** | [codeforces.com/profile/bijontalukder](https://codeforces.com/profile/bijontalukder) |
 
@@ -59,30 +120,9 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
 </p>
 
----
 
-## 🚀 Featured Projects
-
-- 🧾 **Client Backend Development Project** — Backend built using **Prisma** & **MongoDB**, following **SOLID principles** for clean, performant microservices.  
-  🔗 [LinkedIn Post](https://www.linkedin.com/posts/bijon-talukder-934879210_backenddevelopment-prisma-mongodb-activity-7305160683959001092-sMeZ?utm_source=chatgpt.com)
-
-- 🚀 **NASA Space Apps Challenge 2024 – Hexplorers** — Participated in NASA's global hackathon to build impactful space science solutions.  
-  🌐 [Project Page](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/hexplorers/?tab=project)
-
-- 🛒 **Smart Food Delivery System** — Real-time MERN stack food ordering app with tracking and admin dashboard.  
-  🔗 [GitHub Repo](https://github.com/BijonTalukder/smart-food-app)
-
-- 💼 **ERP Management System** — Admin dashboard with role-based access, reports, and filterable views.  
-  🔗 [GitHub Repo](https://github.com/BijonTalukder/erp-system)
-
-- 📱 **Android News App (Java)** — Native Android news reader app with REST API and clean design.  
-  🔗 [GitHub Repo](https://github.com/BijonTalukder/news-app-java)
-
----
 
 ## 📘 Currently Learning
-
-- 💾 SQL & PostgreSQL
 - 🌐 Golang for microservices
 - ✅ Unit Testing (Jest, Mocha)
 - 📐 Clean Architecture & Design Patterns
@@ -98,8 +138,7 @@
 - 🚀 **NASA Space Apps Challenge 2024 – Hexplorers** — Collaborated in solving space-related challenges in the world’s largest hackathon.  
   🌐 [Team Page](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/hexplorers/?tab=project)
 
-- 📜 Certified: **MongoDB for Developers** – MongoDB University  
-- 🧾 Completed: **Backend Engineering Bootcamp** – Udemy
+
 
 ---
 
@@ -108,15 +147,12 @@
 - 📝 **Single Thread vs Multi Thread – আসলে ব্যাপারটা কী?** — Java বা Node.js প্রসেসিংয়ে Single-threaded ও Multi-threaded execution এর তুলনা।  
   🔗 [Read on LinkedIn](https://zw.linkedin.com/posts/bijon-talukder-934879210_everybody-should-learn-to-program-a-computer-activity-7049446717385035776-hi6S?utm_source=chatgpt.com)
 
-- 📌 **Backend Development Post (Prisma + MongoDB)** — SOLID principles & clean RESTful API architecture.  
-  🔗 [Read on LinkedIn](https://www.linkedin.com/posts/bijon-talukder-934879210_backenddevelopment-prisma-mongodb-activity-7305160683959001092-sMeZ?utm_source=chatgpt.com)
 
 ---
 
 ## 🎯 Fun Facts About Me
 
-- 🧩 Love solving logic puzzles & coding challenges  
-- 🎬 Big fan of sci-fi & tech documentaries  
+- 🧩 Love solving logic puzzles & coding challenges    
 - 🍳 Cooking is my creative outlet outside of tech
 
 ---
