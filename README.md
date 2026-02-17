@@ -56,22 +56,21 @@ Hi, I'm a passionate Backend-focused Full Stack Developer with 3+ years of exper
 
 ## 🚀 Career Goals Timeline
 
-### ✅ 2023 — Achieved
-- 🎯 Successfully switched to a better developer job
-- 💼 Entered professional production-level development
+### ✅ 2023 — (Done)
+- 🎯 Start my first Job for professional production-level development
 
-### ✅ 2024 — Achieved
+### ✅ 2024 — (Done)
 - 📚 Learned .NET and MySQL deeply
 - 🧩 Focused on problem solving and algorithms
 
-### ✅ 2025 — Achieved
+### ✅ 2025 — (Done)
 - 🧠 Became a Backend Engineer
-- 🏗️ Built scalable production backend systems
+
 
 ### 🎯 2026 — Current Goal
 - 🏛️ Become a System Architect
 - 📐 Master System Design
-- ⚡ Learn Distributed Systems, Microservices, Redis, Queues
+- ⚡ Learn Distributed Systems in production-level
 
 
 ---
