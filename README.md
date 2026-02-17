@@ -1,180 +1,94 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/BijonTalukder/count.svg?" />
-</div>
+::: {align="center"}
+# Bijon Talukder
 
-<h1 align="center">Hi 👋, I'm Bijon Talukder</h1>
-<h3 align="center">Full Stack Developer (MERN) | Mobile App Developer (Java) | Familiar with Go & .NET</h3>
+### Backend Engineer \| System Design Enthusiast \| Scalable Systems Builder
+:::
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" height="300"/>
-</div>
+------------------------------------------------------------------------
 
----
+## About Me
 
-## 👨‍💻 About Me
+Backend-focused Full Stack Developer with 3+ years of experience
+designing and building scalable, production-grade systems.
 
-Hi, I'm a passionate Backend-focused Full Stack Developer with 3+ years of experience designing scalable systems and production-level applications.
+Currently working as a Backend Engineer, specializing in backend
+architecture, system scalability, and performance optimization.
 
-- 🏢 Currently working at **RootDevs**
-- 💼 Previously worked at:
-  - Smart Framework (Ex)
-  - OneWorldGSM (Ex)
+Experienced in designing REST APIs, database systems, authentication
+systems, and scalable backend infrastructure.
 
-- 💻 Backend-focused Full Stack Developer with strong experience in:
-  - Node.js, Express.js
-  - React.js, Next.js
-  - MongoDB, MySQL
-  - REST APIs, Authentication, File Systems
-  - Scalable Backend Architecture
+------------------------------------------------------------------------
 
-- 🧠 Additional experience with:
-  - .NET
-  - Golang
-  - Android (Java)
-  - Linux Server Management
-  - Docker (basic)
+## Experience
 
-- 🎯 Current Focus:
-  - System Design
-  - Scalable Architecture
-  - High-performance Backend Systems
-  - Distributed Systems
+**Backend Engineer** --- RootDevs\
+Designing and maintaining scalable backend systems, REST APIs, and
+database architecture.
 
-- 🤝 Passionate about building scalable, reliable, and clean architecture systems.
+**Full Stack Developer** --- Smart Framework *(Former)*\
+Worked on full stack applications using MERN stack and production
+deployments.
 
+**Software Developer** --- OneWorldGSM *(Former)*\
+Worked on backend systems, APIs, and application logic.
 
----
+------------------------------------------------------------------------
 
-## 🏢 Experience Timeline
+## Core Expertise
 
-- 🟢 **RootDevs** — Backend Engineer *(Current)*
-- 🔵 **Smart Framework** — Full Stack Developer *(Former)*
-- 🟣 **OneWorldGSM** — Software Developer *(Former)*
+Backend Engineering: - Node.js - Express.js - REST API Architecture -
+Authentication & Authorization - Scalable System Design
 
+Database Engineering: - MongoDB - MySQL - Query Optimization - Schema
+Design - Performance Optimization
 
----
+Additional: - Golang (Microservices learning) - .NET - Linux - Docker
 
-## 🚀 Career Goals Timeline
+Frontend: - React.js - Next.js
 
-### ✅ 2023 — (Done)
-- 🎯 Start my first Job for professional production-level development
+------------------------------------------------------------------------
 
-### ✅ 2024 — (Done)
-- 📚 Learned .NET and MySQL deeply
-- 🧩 Focused on problem solving and algorithms
+## Current Focus
 
-### ✅ 2025 — (Done)
-- 🧠 Became a Backend Engineer
+-   System Design
+-   Distributed Systems
+-   Microservices Architecture
+-   Backend Scalability
+-   Performance Optimization
 
+------------------------------------------------------------------------
 
-### 🎯 2026 — Current Goal
-- 🏛️ Become a System Architect
-- 📐 Master System Design
-- ⚡ Learn Distributed Systems in production-level
+## Technical Skills
 
+Languages: JavaScript, TypeScript, Go, Java, C, C++
 
----
+Backend: Node.js, Express.js, REST APIs, .NET
 
-## ⚡ Current Skill Focus
+Database: MongoDB, MySQL
 
-```text
-Backend Engineering     ████████████████ 95%
-System Design           ███████████░░░░ 70%
-Database Design         █████████████░░ 85%
-Problem Solving         ████████████░░░ 80%
-Architecture Skills     ██████████░░░░░ 75%
-```
+Tools: Git, Docker, Linux, Postman
 
-## 📫 Connect with Me
+------------------------------------------------------------------------
 
-| Platform     | Profile Link |
-|--------------|--------------|
-| 🔗 **LinkedIn**   | [linkedin.com/in/bijon-talukder-934879210](https://www.linkedin.com/in/bijon-talukder-934879210) |
-| 📘 **Facebook**   | [facebook.com/bijontalukder.bijon](https://www.facebook.com/bijontalukder.bijon) |
-| 💻 **Codeforces** | [codeforces.com/profile/bijontalukder](https://codeforces.com/profile/bijontalukder) |
+## GitHub Stats
 
----
+https://github-readme-stats.vercel.app/api?username=BijonTalukder
 
-## 🛠️ Languages & Tools
+------------------------------------------------------------------------
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
-</p>
+## Career Vision
 
+My goal is to become a System Architect capable of designing large-scale
+distributed systems and high-performance backend infrastructure.
 
+------------------------------------------------------------------------
 
-## 📘 Currently Learning
-- 🌐 Golang for microservices
-- ✅ Unit Testing (Jest, Mocha)
-- 📐 Clean Architecture & Design Patterns
+## Contact
 
----
+LinkedIn: https://linkedin.com/in/bijon-talukder-934879210
 
-## 🏅 Achievements
+Codeforces: https://codeforces.com/profile/bijontalukder
 
-- 🥇 Top 10% in **Codeforces Regional Contest**
-- 🏆 **ICPC Asia Dhaka Regional Contest 2021** — Participated in one of the most prestigious collegiate programming competitions.  
-  🎓 [Certificate Link](https://drive.google.com/file/d/1kS1NGKUalP_-mNCT3t5OJdYnXAfUp6J_/view)
+------------------------------------------------------------------------
 
-- 🚀 **NASA Space Apps Challenge 2024 – Hexplorers** — Collaborated in solving space-related challenges in the world’s largest hackathon.  
-  🌐 [Team Page](https://www.spaceappschallenge.org/nasa-space-apps-2024/find-a-team/hexplorers/?tab=project)
-
-
-
----
-
-## ✍️ Blog Posts & Articles
-
-- 📝 **Single Thread vs Multi Thread – আসলে ব্যাপারটা কী?** — Java বা Node.js প্রসেসিংয়ে Single-threaded ও Multi-threaded execution এর তুলনা।  
-  🔗 [Read on LinkedIn](https://zw.linkedin.com/posts/bijon-talukder-934879210_everybody-should-learn-to-program-a-computer-activity-7049446717385035776-hi6S?utm_source=chatgpt.com)
-
-
----
-
-## 🎯 Fun Facts About Me
-
-- 🧩 Love solving logic puzzles & coding challenges    
-- 🍳 Cooking is my creative outlet outside of tech
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=bijontalukder&theme=algolia&margin-w=10" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BijonTalukder&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BijonTalukder&layout=compact&langs_count=6&theme=dracula" height="150"/>
-</div>
-
----
-
-## 🐍 GitHub Contributions
-
-<img src="https://raw.githubusercontent.com/BijonTalukder/BijonTalukder/1b9bb92375b92734e1e5511ea91de80e8d4d1b03/github-user-contribution%20(1).svg" alt="Snake animation" />
-
----
+"First, solve the problem. Then, write the code."
